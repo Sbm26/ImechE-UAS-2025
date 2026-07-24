@@ -4,6 +4,9 @@
 - This project was University of Leicester's entery into IMechE UAS Challenge 2025
 - As a team we had to design and build a UAV meant for humanitarian aid package delivery
 - I was assigned to be the Design and CAD team lead by the school of engineering, meaning I led the concept developement, modelling and the manufacturing
+  
+![UAV CAD render showing twin-boom design and fuselage-mounted EDFs](./UAV-CAD-Render.png)
+*(Figure 1: Isometric view of the high-wing, dual-boom concept design.)*
 
 ## Design Constraints & Competition Requirements
 - The following are based on the competition rule book which is available in the project folder
