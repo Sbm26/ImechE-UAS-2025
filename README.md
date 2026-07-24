@@ -48,11 +48,11 @@ A **Joule Heating Solid-State Release System** was engineered with the help of A
 - Read more about this under the "Main Challenge" header 
 
 
-### 6. Aerodynamic Spice 
+### 6. Aerodynamic Spice ✨
 * Implemented sharklet winglets...at first because it looked cool but after simulations we validated **8% increase in aerodynamic efficiency ($L/D$ ratio)** over the baseline wings!
 
 
-## Main Challenge
+## ⚠️ Main Challenge
 Keeping the fuselage hollow for the payload package integration meant we were unable to incooperate a traditional bulky wing-box 
 * **Solution:** Engineered a high-load wing-to-fuselage joint interface.
 * Different scenarios of static and dynamic load testing was conducted to validate structural integrity across extreme $g$-load maneuvers 
